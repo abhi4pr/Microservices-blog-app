@@ -14,4 +14,4 @@
 "start": "node dist/server.js",
 "dev": "nodemon dist/server.js"
 
-=>
+=> req/res has to define datatype, also env.jwt_token has to define datatype
